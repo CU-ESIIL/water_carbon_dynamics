@@ -12,8 +12,8 @@
 ## Agenda
 
 ### 1. Opening Remarks
-- Brief welcome and overview of the meeting's objectives.
-
+- Kick-off a project of water-carbon coupling
+- 
 ### 2. Introductions
 - Roundtable introductions for all attendees.
 - Share a personal note or interesting fact to foster camaraderie.
