@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/748406417.svg)](https://zenodo.org/doi/10.5281/zenodo.11170227)
+
 # Postdoc OASIS
 This is the central hub for information pertaining to ESIIL Postdocs
 
